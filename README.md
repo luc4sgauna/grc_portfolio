@@ -29,6 +29,6 @@ Welcome! I'm Lucas, an Information Security Specialist with experience in IT ope
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/lucasgauna)
+- [LinkedIn](https://www.linkedin.com/in/lucgauna)
 
 Thanks for visiting!

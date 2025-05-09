@@ -19,12 +19,11 @@ Welcome! I'm Lucas, an Information Security Specialist with experience in IT ope
 
 ---
 
-## 📚 Learning in Progress
+## 🧪 Ongoing Experiments & Learning
 
-- [x] Git & GitHub Basics
-- [ ] AWS Fundamentals
-- [ ] Terraform + Policy-as-Code
-- [ ] Python for GRC Automation
+- [ ] Build a Terraform module to enforce tagging compliance in AWS  
+- [ ] Map NIST 800-53 controls to AWS Config rules  
+- [ ] Create Python script to auto-parse SOC 2 reports  
 
 ---
 

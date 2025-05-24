@@ -15,6 +15,8 @@ Welcome! I'm Lucas, an Information Security Specialist with experience in IT ope
 
 ## 📁 Portfolio Projects
 
+- [AWS Account Governance and Security Foundations Lab](https://github.com/luc4sgauna/aws-account-governance-lab)  
+  Step-by-step implementation of core AWS security controls, aligned with frameworks like NIST and ISO 27001. Covers IAM Identity Center, CloudTrail, AWS Config, Security Hub, and cost management.
 
 
 ---
